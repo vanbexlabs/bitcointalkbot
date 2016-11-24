@@ -8,7 +8,7 @@ How to install and run on a clean install of Ubuntu 14.04 (LTS):
     sudo apt-get -y install python-virtualenv python-pip git
     virtualenv -p /usr/bin/python3.4 venv
     source venv/bin/activate
-    git clone https://github.com/Storj/bitcointalkbot.git
+    git clone https://github.com/vanbexlabs/bitcointalkbot.git
     cd bitcointalkbot/
     pip install -r requirements.txt
     edit crawler.py # config
