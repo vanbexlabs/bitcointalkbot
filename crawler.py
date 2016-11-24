@@ -11,7 +11,7 @@ import time
 import traceback
 import urllib.parse
 
-KEYWORDS = ['Storj', 'Storj Labs', 'SJCX', 'Storjcoin X', 'Storjcoin']
+KEYWORDS = ['Vanbex', 'Etherparty', 'Intellisys', 'Equibit', 'spells of genesis']
 PING_TIME = 2  # how many seconds to wait between checking BitcoinTalk
 KEYWORD_FORMAT = '_*{}*_'  # markdown bold, {} is replaced
 MESSAGE_FORMAT = """Someone mentioned your organization on BitcoinTalk!
